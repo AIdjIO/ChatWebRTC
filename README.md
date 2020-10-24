@@ -1,3 +1,3 @@
 # ChatWebRTC
-video chat with webRTC in node.js
+video chat with webRTC in node.js, express, socket.io, peerJS
 
